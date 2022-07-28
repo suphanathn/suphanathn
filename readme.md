@@ -1,7 +1,7 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Suphanath
+- ⚡ Student id: 63366301
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
