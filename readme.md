@@ -42,10 +42,6 @@
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
   </a>
 
-<a href="#">
-    <img src="svg/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
-  </a>
-
 </p>
 
 ## MY special aptitude, interest in computer engineering ❤️
